@@ -1,5 +1,5 @@
 
-# Project Title
+# QR Code Scanner
 
 A brief description of what this project does and who it's for
 
