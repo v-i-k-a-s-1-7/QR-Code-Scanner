@@ -1,6 +1,6 @@
 # localhost address - http://localhost:8501
 #!streamlit run app.py & npx localtunnel --port 8501
-# core packages
+# core package
 import streamlit as st
 import numpy as np
 import os
